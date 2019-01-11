@@ -1,0 +1,59 @@
+---
+title: "Metegenomics & Secondary Metabolites"
+author: "Kohl Kinning"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  html_notebook:
+    fig_height: 4
+    theme: cosmo
+    toc: yes
+    toc_float:
+      collapsed: yes
+---
+
+So much interesting data is open and freely available. I'm fascinated with the biology of engineered systems. To keep myself abreast of a wide range of applications of bioinformatics tools, I dive head first in to some exploration of this metagenomic data. I'll follow the approach of (Grossart et al., 2018) in recovering secondary metabolites genes from HVAC metagenomic data produced in (Breitbart, 2018).
+
+# Data
+
+## Access
+The data was downlaoded from the NCBI Sequence Read Archive database study number [SRP113244](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP113244) using `fastq-dump --split-files accession_list.txt`. The reads are paired end and 251nt long. There are negative controls, pooled samples, female, and male room samples.
+
+## Design
+From the submitters: Virus particles were dislodged from HVAC filters located in double-occupancy university dormitory rooms through sonication. Virus particles were then purified from cellular debris and free nucleic acids through filtration and nuclease treatment. Viral RNA was extracted with the RNeasy kit (Qiagen) and reverse-transcribed using the SuperScript III First Strand Synthesis System (Invitrogen) with random hexamers. Second-strand synthesis was performed on the resulting cDNA using the Klenow Fragment DNA polymerase (New England Biolabs) and the resulting products were cleaned using the AMPure XP Purification system. Double-stranded cDNA was then sheared using a Covaris instrument. NGS libraries were prepared using the Accel-NGS 1S Plus DNA Library Kit for Illumina Platforms (Swift Biosciences) and paired-end sequenced on a MiSeq platform.
+
+
+*accession_list.txt*
+```
+SRR5853122
+SRR5853123
+SRR5853124
+SRR5853125
+SRR5853126
+SRR5853127
+SRR5853128
+SRR5853129
+SRR5853130
+SRR5853131
+SRR5853132
+SRR5853133
+SRR5853134
+SRR5853135
+SRR5853136
+SRR5853137
+SRR5853138
+SRR5853139
+SRR5853140
+SRR5853141
+SRR5853142
+SRR5853143
+SRR5853144
+SRR5853145
+SRR5853146
+SRR5853147
+SRR5853148
+SRR5853149
+```
+
+## Plan
+
+After preparing the raw reads, I'll use MetaBat to reconstruct single genomes from these metagenomic samples. I'll then use antiSMASH to mine the genome for potentially interesting secondary metabolites in the microbial genomes. I find it fascintating that natural products which may have a use in humans can be residing in the mechanical systmes of engineered structures. Evolution of these microbes is happening at a dizzying pace due to newly introduced stable environments and massive pressure as a result of massive specation events, such as routine sanitization.
