@@ -1,0 +1,168 @@
+
+1. F5_RNA
+Identifiers:	BioSample: SAMN07373732; Sample name: UCF28; SRA: SRS2371737
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373732	ID: 7373732
+
+2. F4_RNA
+Identifiers:	BioSample: SAMN07373731; Sample name: UCF27; SRA: SRS2371735
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373731	ID: 7373731
+
+3. F3_RNA
+Identifiers:	BioSample: SAMN07373730; Sample name: UCF26; SRA: SRS2371736
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373730	ID: 7373730
+
+4. M5_RNA
+Identifiers:	BioSample: SAMN07373729; Sample name: UCF25; SRA: SRS2371734
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373729	ID: 7373729
+
+5. M4_RNA
+Identifiers:	BioSample: SAMN07373728; Sample name: UCF24; SRA: SRS2371733
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373728	ID: 7373728
+
+6. F2_RNA
+Identifiers:	BioSample: SAMN07373727; Sample name: UCF23; SRA: SRS2371731
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373727	ID: 7373727
+
+7. M3_RNA
+Identifiers:	BioSample: SAMN07373726; Sample name: UCF22; SRA: SRS2371732
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373726	ID: 7373726
+
+8. F1_RNA
+Identifiers:	BioSample: SAMN07373725; Sample name: UCF21; SRA: SRS2371730
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373725	ID: 7373725
+
+9. M2_RNA
+Identifiers:	BioSample: SAMN07373724; Sample name: UCF20; SRA: SRS2371738
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373724	ID: 7373724
+
+10. Pool_RNA
+Identifiers:	BioSample: SAMN07373723; Sample name: UCF19; SRA: SRS2371739
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373723	ID: 7373723
+
+11. F6_RNA
+Identifiers:	BioSample: SAMN07373722; Sample name: UCF18; SRA: SRS2371745
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373722	ID: 7373722
+
+12. M6_RNA
+Identifiers:	BioSample: SAMN07373721; Sample name: UCF17; SRA: SRS2371747
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373721	ID: 7373721
+
+13. NegativeControl_RNA
+Identifiers:	BioSample: SAMN07373720; Sample name: UCF16; SRA: SRS2371743
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373720	ID: 7373720
+
+14. M1_RNA
+Identifiers:	BioSample: SAMN07373719; Sample name: UCF15; SRA: SRS2371746
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373719	ID: 7373719
+
+15. Pool_DNA
+Identifiers:	BioSample: SAMN07373718; Sample name: UCF14; SRA: SRS2371742
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373718	ID: 7373718
+
+16. F6_DNA
+Identifiers:	BioSample: SAMN07373717; Sample name: UCF13; SRA: SRS2371744
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373717	ID: 7373717
+
+17. M6_DNA
+Identifiers:	BioSample: SAMN07373716; Sample name: UCF12; SRA: SRS2371740
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373716	ID: 7373716
+
+18. F5_DNA
+Identifiers:	BioSample: SAMN07373715; Sample name: UCF11; SRA: SRS2371741
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373715	ID: 7373715
+
+19. F4_DNA
+Identifiers:	BioSample: SAMN07373714; Sample name: UCF10; SRA: SRS2371757
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373714	ID: 7373714
+
+20. F3_DNA
+Identifiers:	BioSample: SAMN07373713; Sample name: UCF09; SRA: SRS2371756
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373713	ID: 7373713
+
+21. M5_DNA
+Identifiers:	BioSample: SAMN07373712; Sample name: UCF08; SRA: SRS2371754
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373712	ID: 7373712
+
+22. M4_DNA
+Identifiers:	BioSample: SAMN07373711; Sample name: UCF07; SRA: SRS2371755
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373711	ID: 7373711
+
+23. F2_DNA
+Identifiers:	BioSample: SAMN07373710; Sample name: UCF06; SRA: SRS2371753
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373710	ID: 7373710
+
+24. M3_DNA
+Identifiers:	BioSample: SAMN07373709; Sample name: UCF05; SRA: SRS2371752
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373709	ID: 7373709
+
+25. F1_DNA
+Identifiers:	BioSample: SAMN07373708; Sample name: UCF04; SRA: SRS2371750
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373708	ID: 7373708
+
+26. M2_DNA
+Identifiers:	BioSample: SAMN07373707; Sample name: UCF03; SRA: SRS2371751
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373707	ID: 7373707
+
+27. NegativeControl_DNA
+Identifiers:	BioSample: SAMN07373706; Sample name: UCF02; SRA: SRS2371748
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373706	ID: 7373706
+
+28. M1_DNA
+Identifiers:	BioSample: SAMN07373705; Sample name: UCF01; SRA: SRS2371749
+Organism:	indoor metagenome
+Package:	Metagenome or environmental; version 1.0
+Accession: SAMN07373705	ID: 7373705
